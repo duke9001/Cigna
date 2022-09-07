@@ -1,0 +1,566 @@
+2022-08-09 19:58:10,173 - cigna -INFO - URL in opened
+2022-08-09 19:58:11,704 - cigna -INFO - Click loggin button
+2022-08-19 21:50:09,411 - cigna -INFO - URL in opened
+2022-08-19 21:50:40,058 - cigna -INFO - URL in opened
+2022-08-19 21:57:02,279 - cigna -INFO - URL in opened
+2022-08-19 21:58:23,606 - cigna -INFO - URL in opened
+2022-08-19 21:59:09,677 - cigna -INFO - URL in opened
+2022-08-19 22:00:36,322 - cigna -INFO - URL in opened
+2022-08-19 22:02:02,416 - cigna -INFO - URL in opened
+2022-08-19 22:02:52,168 - cigna -INFO - URL in opened
+2022-08-19 22:33:49,765 - cigna -INFO - URL in opened
+2022-08-20 11:25:19,847 - cigna -INFO - URL in opened
+2022-08-20 11:27:51,161 - cigna -INFO - URL in opened
+2022-08-20 11:28:55,460 - cigna -INFO - URL in opened
+2022-08-20 11:30:06,395 - cigna -INFO - URL in opened
+2022-08-20 11:30:52,086 - cigna -INFO - URL in opened
+2022-08-20 11:32:27,391 - cigna -INFO - URL in opened
+2022-08-20 19:13:53,489 - cigna -INFO - URL in opened
+2022-08-20 19:14:51,763 - cigna -INFO - URL in opened
+2022-08-20 19:17:31,293 - cigna -INFO - URL in opened
+2022-08-20 20:18:37,442 - cigna -INFO - URL in opened
+2022-08-20 20:23:03,065 - cigna -INFO - URL in opened
+2022-08-20 20:24:46,400 - cigna -INFO - URL in opened
+2022-08-20 20:30:29,792 - cigna -INFO - URL in opened
+2022-08-20 20:32:24,512 - cigna -INFO - URL in opened
+2022-08-20 20:36:29,420 - cigna -INFO - URL in opened
+2022-08-20 20:47:31,122 - cigna -INFO - URL in opened
+2022-08-20 20:50:24,722 - cigna -INFO - URL in opened
+2022-08-20 20:51:07,936 - cigna -INFO - URL in opened
+2022-08-20 20:52:34,573 - cigna -INFO - URL in opened
+2022-08-20 20:54:13,114 - cigna -INFO - URL in opened
+2022-08-20 20:55:06,616 - cigna -INFO - URL in opened
+2022-08-20 20:55:09,121 - cigna -INFO - country set
+2022-08-20 20:55:14,673 - cigna -INFO - given name set
+2022-08-20 20:55:15,502 - cigna -INFO - family name set
+2022-08-20 20:56:00,073 - cigna -INFO - URL in opened
+2022-08-20 20:56:02,483 - cigna -INFO - country set
+2022-08-20 20:56:07,948 - cigna -INFO - given name set
+2022-08-20 20:56:08,700 - cigna -INFO - family name set
+2022-08-20 21:16:58,259 - cigna -INFO - URL in opened
+2022-08-20 21:17:49,370 - cigna -INFO - URL in opened
+2022-08-20 21:19:58,304 - cigna -INFO - URL in opened
+2022-08-20 21:23:53,271 - cigna -INFO - URL in opened
+2022-08-20 21:23:55,091 - cigna -INFO - country set
+2022-08-20 21:24:00,586 - cigna -INFO - given name set as Alex
+2022-08-20 21:24:01,125 - cigna -INFO - family name set as Perera
+2022-08-20 21:25:06,739 - cigna -INFO - URL in opened
+2022-08-20 21:32:49,697 - cigna -INFO - URL in opened
+2022-08-20 21:33:36,941 - cigna -INFO - URL in opened
+2022-08-20 21:34:16,238 - cigna -INFO - URL in opened
+2022-08-20 21:34:18,164 - cigna -INFO - country set
+2022-08-20 21:34:23,673 - cigna -INFO - given name set as Alex
+2022-08-20 21:34:24,211 - cigna -INFO - family name set as Perera
+2022-08-20 21:43:19,576 - cigna -INFO - URL in opened
+2022-08-20 21:45:51,055 - cigna -INFO - URL in opened
+2022-08-20 21:56:15,257 - cigna -INFO - URL in opened
+2022-08-20 21:56:59,357 - cigna -INFO - URL in opened
+2022-08-20 21:57:01,670 - cigna -INFO - country set
+2022-08-20 21:57:07,224 - cigna -INFO - given name set as Alex
+2022-08-20 21:57:07,822 - cigna -INFO - family name set as Perera
+2022-08-20 21:58:46,659 - cigna -INFO - URL in opened
+2022-08-20 21:58:49,017 - cigna -INFO - country set
+2022-08-20 21:58:54,517 - cigna -INFO - given name set as Alex
+2022-08-20 21:58:55,021 - cigna -INFO - family name set as Perera
+2022-08-20 22:00:50,202 - cigna -INFO - URL in opened
+2022-08-20 22:01:35,077 - cigna -INFO - URL in opened
+2022-08-20 22:01:37,403 - cigna -INFO - country set
+2022-08-20 22:01:42,828 - cigna -INFO - given name set as Alex
+2022-08-20 22:01:43,397 - cigna -INFO - family name set as Perera
+2022-08-20 22:09:05,148 - cigna -INFO - URL in opened
+2022-08-20 22:20:25,961 - cigna -INFO - URL in opened
+2022-08-20 22:21:12,474 - cigna -INFO - URL in opened
+2022-08-20 22:25:46,637 - cigna -INFO - URL in opened
+2022-08-20 22:25:48,271 - cigna -INFO - country set
+2022-08-20 22:25:53,725 - cigna -INFO - given name set as Alex
+2022-08-20 22:25:54,241 - cigna -INFO - family name set as Perera
+2022-08-20 22:27:24,960 - cigna -INFO - URL in opened
+2022-08-20 22:27:27,146 - cigna -INFO - country set
+2022-08-20 22:27:32,657 - cigna -INFO - given name set as Alex
+2022-08-20 22:27:33,164 - cigna -INFO - family name set as Perera
+2022-08-20 22:27:33,763 - cigna -INFO - local given name set as Alex
+2022-08-20 22:28:49,109 - cigna -INFO - URL in opened
+2022-08-20 22:28:51,640 - cigna -INFO - country set
+2022-08-20 22:28:57,191 - cigna -INFO - given name set as Alex
+2022-08-20 22:28:57,879 - cigna -INFO - family name set as Perera
+2022-08-20 22:28:58,518 - cigna -INFO - local given name set as Alex
+2022-08-20 22:28:59,125 - cigna -INFO - local family name set as Perera
+2022-08-21 00:28:56,191 - cigna -INFO - URL in opened
+2022-08-21 00:28:58,534 - cigna -INFO - country set
+2022-08-21 00:29:04,023 - cigna -INFO - given name set as Alex
+2022-08-21 00:29:04,539 - cigna -INFO - family name set as Perera
+2022-08-21 00:29:05,073 - cigna -INFO - local given name set as Alex
+2022-08-21 00:29:05,541 - cigna -INFO - local family name set as Perera
+2022-08-21 00:29:30,687 - cigna -INFO - URL in opened
+2022-08-21 00:30:09,837 - cigna -INFO - URL in opened
+2022-08-21 00:30:42,292 - cigna -INFO - URL in opened
+2022-08-21 00:31:13,766 - cigna -INFO - URL in opened
+2022-08-21 00:32:20,092 - cigna -INFO - URL in opened
+2022-08-21 00:32:28,160 - cigna -INFO - country set
+2022-08-21 00:32:33,685 - cigna -INFO - given name set as Alex
+2022-08-21 00:32:34,263 - cigna -INFO - family name set as Perera
+2022-08-21 00:32:34,891 - cigna -INFO - local given name set as Alex
+2022-08-21 00:32:35,352 - cigna -INFO - local family name set as Perera
+2022-08-21 00:48:37,520 - cigna -INFO - URL in opened
+2022-08-21 00:49:40,541 - cigna -INFO - URL in opened
+2022-08-21 00:51:55,013 - cigna -INFO - URL in opened
+2022-08-21 00:51:58,273 - cigna -INFO - country set
+2022-08-21 00:52:03,735 - cigna -INFO - given name set as Alex
+2022-08-21 00:52:04,224 - cigna -INFO - family name set as Perera
+2022-08-21 00:52:04,700 - cigna -INFO - local given name set as Alex
+2022-08-21 00:52:05,179 - cigna -INFO - local family name set as Perera
+2022-08-21 00:52:34,712 - cigna -INFO - URL in opened
+2022-08-21 00:52:36,980 - cigna -INFO - country set
+2022-08-21 00:52:42,440 - cigna -INFO - given name set as Alex
+2022-08-21 00:52:42,926 - cigna -INFO - family name set as Perera
+2022-08-21 00:52:43,461 - cigna -INFO - local given name set as Alex
+2022-08-21 00:52:43,933 - cigna -INFO - local family name set as Perera
+2022-08-21 00:55:54,283 - cigna -INFO - URL in opened
+2022-08-21 00:56:49,524 - cigna -INFO - URL in opened
+2022-08-21 00:57:36,456 - cigna -INFO - URL in opened
+2022-08-21 00:57:55,288 - cigna -INFO - country set
+2022-08-21 00:59:20,026 - cigna -INFO - given name set as Alex
+2022-08-21 00:59:28,574 - cigna -INFO - family name set as Perera
+2022-08-21 00:59:29,037 - cigna -INFO - local given name set as Alex
+2022-08-21 00:59:29,554 - cigna -INFO - local family name set as Perera
+2022-08-21 01:00:09,011 - cigna -INFO - URL in opened
+2022-08-21 01:01:52,911 - cigna -INFO - URL in opened
+2022-08-21 01:01:55,451 - cigna -INFO - country set
+2022-08-21 01:02:40,876 - cigna -INFO - given name set as Alex
+2022-08-21 01:02:41,322 - cigna -INFO - family name set as Perera
+2022-08-21 01:02:41,785 - cigna -INFO - local given name set as Alex
+2022-08-21 01:02:42,310 - cigna -INFO - local family name set as Perera
+2022-08-21 01:04:14,407 - cigna -INFO - URL in opened
+2022-08-21 01:10:53,624 - cigna -INFO - URL in opened
+2022-08-21 01:10:56,036 - cigna -INFO - country set
+2022-08-21 01:10:56,548 - cigna -INFO - given name set as Alex
+2022-08-21 01:10:57,109 - cigna -INFO - family name set as Perera
+2022-08-21 01:10:57,798 - cigna -INFO - local given name set as Alex
+2022-08-21 01:10:58,278 - cigna -INFO - local family name set as Perera
+2022-08-21 01:11:27,772 - cigna -INFO - URL in opened
+2022-08-21 01:11:30,212 - cigna -INFO - country set
+2022-08-21 01:11:30,652 - cigna -INFO - given name set as Alex
+2022-08-21 01:11:31,271 - cigna -INFO - family name set as Perera
+2022-08-21 01:11:31,888 - cigna -INFO - local given name set as Alex
+2022-08-21 01:11:32,276 - cigna -INFO - local family name set as Perera
+2022-08-21 01:12:18,317 - cigna -INFO - URL in opened
+2022-08-21 01:12:20,699 - cigna -INFO - country set
+2022-08-21 01:12:21,158 - cigna -INFO - given name set as Alex
+2022-08-21 01:12:21,770 - cigna -INFO - family name set as Perera
+2022-08-21 01:12:22,368 - cigna -INFO - local given name set as Alex
+2022-08-21 01:12:22,826 - cigna -INFO - local family name set as Perera
+2022-08-22 12:31:00,516 - cigna -INFO - URL in opened
+2022-08-22 12:31:05,854 - cigna -INFO - country set
+2022-08-22 12:31:13,639 - cigna -INFO - given name set as Alex
+2022-08-22 12:31:14,111 - cigna -INFO - family name set as Perera
+2022-08-22 12:31:14,708 - cigna -INFO - local given name set as Alex
+2022-08-22 12:31:15,171 - cigna -INFO - local family name set as Perera
+2022-08-22 12:33:15,778 - cigna -INFO - URL in opened
+2022-08-22 12:34:40,960 - cigna -INFO - URL in opened
+2022-08-22 12:35:58,097 - cigna -INFO - URL in opened
+2022-08-22 12:36:00,472 - cigna -INFO - country set
+2022-08-22 12:36:14,007 - cigna -INFO - given name set as Alex
+2022-08-22 12:36:14,448 - cigna -INFO - family name set as Perera
+2022-08-22 12:36:15,000 - cigna -INFO - local given name set as Alex
+2022-08-22 12:36:15,425 - cigna -INFO - local family name set as Perera
+2022-08-22 12:36:54,221 - cigna -INFO - URL in opened
+2022-08-22 12:37:34,787 - cigna -INFO - URL in opened
+2022-08-22 12:38:26,038 - cigna -INFO - URL in opened
+2022-08-22 12:38:27,785 - cigna -INFO - country set
+2022-08-22 12:38:28,505 - cigna -INFO - HTML not loaded
+2022-08-22 12:38:29,038 - cigna -INFO - given name set as Alex
+2022-08-22 12:38:29,503 - cigna -INFO - family name set as Perera
+2022-08-22 12:38:30,168 - cigna -INFO - local given name set as Alex
+2022-08-22 12:38:30,575 - cigna -INFO - local family name set as Perera
+2022-08-22 12:39:09,167 - cigna -INFO - URL in opened
+2022-08-22 12:39:14,078 - cigna -INFO - country set
+2022-08-22 12:39:15,207 - cigna -INFO - HTML not loaded
+2022-08-22 12:39:15,565 - cigna -INFO - given name set as Alex
+2022-08-22 12:39:16,077 - cigna -INFO - family name set as Perera
+2022-08-22 12:39:16,671 - cigna -INFO - local given name set as Alex
+2022-08-22 12:39:17,094 - cigna -INFO - local family name set as Perera
+2022-08-22 12:58:28,512 - cigna -INFO - URL in opened
+2022-08-22 12:59:10,388 - cigna -INFO - URL in opened
+2022-08-22 13:02:42,593 - cigna -INFO - URL in opened
+2022-08-22 13:02:45,003 - cigna -INFO - country set
+2022-08-22 13:02:45,087 - cigna -INFO - HTML not loaded
+2022-08-22 13:02:45,439 - cigna -INFO - given name set as Alex
+2022-08-22 13:02:46,077 - cigna -INFO - family name set as Perera
+2022-08-22 13:02:46,646 - cigna -INFO - local given name set as Alex
+2022-08-22 13:02:47,160 - cigna -INFO - local family name set as Perera
+2022-08-22 13:03:26,283 - cigna -INFO - URL in opened
+2022-08-22 13:04:00,439 - cigna -INFO - URL in opened
+2022-08-22 13:04:02,668 - cigna -INFO - country set
+2022-08-22 13:04:02,741 - cigna -INFO - HTML not loaded
+2022-08-22 13:04:03,164 - cigna -INFO - given name set as Alex
+2022-08-22 13:04:03,776 - cigna -INFO - family name set as Perera
+2022-08-22 13:04:04,298 - cigna -INFO - local given name set as Alex
+2022-08-22 13:04:04,803 - cigna -INFO - local family name set as Perera
+2022-08-22 15:07:26,971 - cigna -INFO - URL in opened
+2022-08-22 15:08:06,275 - cigna -INFO - URL in opened
+2022-08-22 15:08:08,589 - cigna -INFO - country set
+2022-08-22 15:08:28,233 - cigna -INFO - Web  Element not loaded
+2022-08-22 15:08:29,189 - cigna -INFO - given name set as Alex
+2022-08-22 15:08:30,011 - cigna -INFO - family name set as Perera
+2022-08-22 15:08:30,754 - cigna -INFO - local given name set as Alex
+2022-08-22 15:08:31,509 - cigna -INFO - local family name set as Perera
+2022-08-22 15:10:49,893 - cigna -INFO - URL in opened
+2022-08-22 15:11:16,423 - cigna -INFO - URL in opened
+2022-08-22 15:11:18,793 - cigna -INFO - country set
+2022-08-22 15:11:19,206 - cigna -INFO - given name set as Alex
+2022-08-22 15:11:19,891 - cigna -INFO - family name set as Perera
+2022-08-22 15:11:20,463 - cigna -INFO - local given name set as Alex
+2022-08-22 15:11:20,923 - cigna -INFO - local family name set as Perera
+2022-08-22 15:12:54,442 - cigna -INFO - URL in opened
+2022-08-22 15:12:56,760 - cigna -INFO - country set
+2022-08-22 15:12:57,162 - cigna -INFO - given name set as Alex
+2022-08-22 15:12:57,874 - cigna -INFO - family name set as Perera
+2022-08-22 15:12:58,499 - cigna -INFO - local given name set as Alex
+2022-08-22 15:12:58,959 - cigna -INFO - local family name set as Perera
+2022-08-22 15:15:14,124 - cigna -INFO - URL in opened
+2022-08-22 15:15:39,961 - cigna -INFO - URL in opened
+2022-08-22 15:16:45,148 - cigna -INFO - URL in opened
+2022-08-22 15:17:27,616 - cigna -INFO - URL in opened
+2022-08-22 15:18:42,772 - cigna -INFO - URL in opened
+2022-08-22 15:19:33,888 - cigna -INFO - URL in opened
+2022-08-22 15:21:42,898 - cigna -INFO - URL in opened
+2022-08-22 15:21:45,072 - cigna -INFO - country set
+2022-08-22 15:21:45,495 - cigna -INFO - given name set as Alex
+2022-08-22 15:21:46,197 - cigna -INFO - family name set as Perera
+2022-08-22 15:21:46,775 - cigna -INFO - local given name set as Alex
+2022-08-22 15:21:47,189 - cigna -INFO - local family name set as Perera
+2022-08-22 15:24:26,084 - cigna -INFO - URL in opened
+2022-08-22 15:25:21,288 - cigna -INFO - URL in opened
+2022-08-22 15:25:23,248 - cigna -INFO - country set
+2022-08-22 15:25:24,600 - cigna -INFO - given name set as Alex
+2022-08-22 15:25:25,076 - cigna -INFO - family name set as Perera
+2022-08-22 15:27:02,836 - cigna -INFO - URL in opened
+2022-08-22 15:27:05,261 - cigna -INFO - country set
+2022-08-22 15:28:18,609 - cigna -INFO - URL in opened
+2022-08-22 15:29:03,640 - cigna -INFO - URL in opened
+2022-08-22 15:30:55,897 - cigna -INFO - URL in opened
+2022-08-22 15:31:31,216 - cigna -INFO - URL in opened
+2022-08-22 15:32:12,046 - cigna -INFO - URL in opened
+2022-08-22 15:32:14,976 - cigna -INFO - country set
+2022-08-22 15:32:15,393 - cigna -INFO - given name set as Alex
+2022-08-22 15:32:15,804 - cigna -INFO - family name set as Perera
+2022-08-22 15:32:16,313 - cigna -INFO - local given name set as Alex
+2022-08-22 15:32:16,757 - cigna -INFO - local family name set as Perera
+2022-08-22 15:32:42,512 - cigna -INFO - URL in opened
+2022-08-22 15:33:33,558 - cigna -INFO - URL in opened
+2022-08-22 15:34:02,927 - cigna -INFO - URL in opened
+2022-08-22 15:34:05,299 - cigna -INFO - country set
+2022-08-22 15:36:05,653 - cigna -INFO - URL in opened
+2022-08-22 15:36:07,512 - cigna -INFO - country set
+2022-08-22 15:37:02,108 - cigna -INFO - URL in opened
+2022-08-22 15:37:29,024 - cigna -INFO - URL in opened
+2022-08-22 15:37:31,530 - cigna -INFO - country set
+2022-08-22 15:43:59,248 - cigna -INFO - URL in opened
+2022-08-22 15:44:01,602 - cigna -INFO - country set
+2022-08-22 15:45:18,965 - cigna -INFO - URL in opened
+2022-08-22 15:45:21,391 - cigna -INFO - country set
+2022-08-22 15:46:18,805 - cigna -INFO - URL in opened
+2022-08-22 15:46:21,429 - cigna -INFO - country set
+2022-08-22 15:48:15,796 - cigna -INFO - URL in opened
+2022-08-22 15:48:39,890 - cigna -INFO - URL in opened
+2022-08-22 15:48:42,346 - cigna -INFO - country set
+2022-08-22 15:54:59,093 - cigna -INFO - URL in opened
+2022-08-22 15:55:21,965 - cigna -INFO - URL in opened
+2022-08-22 15:55:48,300 - cigna -INFO - URL in opened
+2022-08-22 15:55:50,651 - cigna -INFO - country set
+2022-08-22 15:57:06,496 - cigna -INFO - URL in opened
+2022-08-22 15:57:08,707 - cigna -INFO - country set
+2022-08-22 15:57:09,439 - cigna -INFO - given name set as Alex
+2022-08-22 15:57:09,904 - cigna -INFO - family name set as Perera
+2022-08-22 15:57:10,495 - cigna -INFO - local given name set as Alex
+2022-08-22 15:57:10,910 - cigna -INFO - local family name set as Perera
+2022-08-22 16:00:05,251 - cigna -INFO - URL in opened
+2022-08-22 16:00:12,195 - cigna -INFO - country set
+2022-08-22 16:04:10,085 - cigna -INFO - URL in opened
+2022-08-22 16:04:11,781 - cigna -INFO - country set
+2022-08-22 16:06:00,361 - cigna -INFO - URL in opened
+2022-08-22 16:07:05,333 - cigna -INFO - URL in opened
+2022-08-22 16:07:56,340 - cigna -INFO - URL in opened
+2022-08-22 16:07:58,001 - cigna -INFO - country set
+2022-08-22 16:07:59,171 - cigna -INFO - given name set as Alex
+2022-08-22 16:07:59,836 - cigna -INFO - family name set as Perera
+2022-08-22 16:08:00,489 - cigna -INFO - local given name set as Alex
+2022-08-22 16:08:01,056 - cigna -INFO - local family name set as Perera
+2022-08-22 16:08:01,500 - cigna -INFO - local family name set as Perera
+2022-08-22 16:11:59,723 - cigna -INFO - URL in opened
+2022-08-22 16:13:10,072 - cigna -INFO - URL in opened
+2022-08-22 16:13:36,023 - cigna -INFO - URL in opened
+2022-08-22 16:13:38,496 - cigna -INFO - country set
+2022-08-22 16:13:38,926 - cigna -INFO - given name set as Alex
+2022-08-22 16:13:39,614 - cigna -INFO - family name set as Perera
+2022-08-22 16:13:40,247 - cigna -INFO - local given name set as Alex
+2022-08-22 16:13:40,776 - cigna -INFO - local family name set as Perera
+2022-08-22 16:13:41,199 - cigna -INFO - local family name set as Perera
+2022-08-22 16:14:14,247 - cigna -INFO - URL in opened
+2022-08-22 16:14:33,731 - cigna -INFO - URL in opened
+2022-08-22 16:15:10,991 - cigna -INFO - URL in opened
+2022-08-22 16:15:49,236 - cigna -INFO - URL in opened
+2022-08-22 16:18:24,758 - cigna -INFO - URL in opened
+2022-08-22 16:19:09,777 - cigna -INFO - URL in opened
+2022-08-22 16:19:36,539 - cigna -INFO - URL in opened
+2022-08-22 16:20:20,676 - cigna -INFO - URL in opened
+2022-08-22 16:20:23,245 - cigna -INFO - country set
+2022-08-22 16:20:24,042 - cigna -INFO - given name set as Alex
+2022-08-22 16:20:24,456 - cigna -INFO - family name set as Perera
+2022-08-22 16:20:25,116 - cigna -INFO - local given name set as Alex
+2022-08-22 16:20:25,524 - cigna -INFO - local family name set as Perera
+2022-08-22 16:20:25,902 - cigna -INFO - local family name set as Perera
+2022-08-22 16:28:00,255 - cigna -INFO - URL in opened
+2022-08-22 16:29:04,878 - cigna -INFO - URL in opened
+2022-08-22 16:29:29,008 - cigna -INFO - URL in opened
+2022-08-22 16:29:31,237 - cigna -INFO - country set
+2022-08-22 16:29:31,665 - cigna -INFO - given name set as Alex
+2022-08-22 16:29:32,378 - cigna -INFO - family name set as Perera
+2022-08-22 16:29:32,962 - cigna -INFO - local given name set as Alex
+2022-08-22 16:29:33,380 - cigna -INFO - local family name set as Perera
+2022-08-22 16:29:33,891 - cigna -INFO - local family name set as Perera
+2022-08-22 16:29:34,460 - cigna -INFO - address line1 set as Gampaha,Sri Lanka
+2022-08-22 16:29:35,195 - cigna -INFO - city set as Gampaha
+2022-08-22 16:29:35,632 - cigna -INFO - postalcode set as 11000
+2022-08-22 16:29:36,265 - cigna -INFO - email set as cigna@gmail.com
+2022-08-22 17:02:38,960 - cigna -INFO - URL in opened
+2022-08-22 17:02:41,328 - cigna -INFO - country set
+2022-08-22 17:02:42,029 - cigna -INFO - given name set as Alex
+2022-08-22 17:02:42,498 - cigna -INFO - family name set as Perera
+2022-08-22 17:02:43,339 - cigna -INFO - local given name set as Alex
+2022-08-22 17:02:43,907 - cigna -INFO - local family name set as Perera
+2022-08-22 17:02:44,359 - cigna -INFO - local family name set as Perera
+2022-08-22 17:02:45,039 - cigna -INFO - address line1 set as Gampaha,Sri Lanka
+2022-08-22 17:02:45,764 - cigna -INFO - city set as Gampaha
+2022-08-22 17:02:46,244 - cigna -INFO - postalcode set as 11000
+2022-08-22 17:02:46,807 - cigna -INFO - email set as cigna@gmail.com
+2022-08-22 17:02:49,611 - cigna -INFO - error in country phone code
+2022-08-22 17:03:48,808 - cigna -INFO - URL in opened
+2022-08-22 17:04:28,173 - cigna -INFO - URL in opened
+2022-08-22 17:05:07,361 - cigna -INFO - URL in opened
+2022-08-22 17:05:42,447 - cigna -INFO - URL in opened
+2022-08-22 17:06:15,849 - cigna -INFO - URL in opened
+2022-08-22 17:07:10,695 - cigna -INFO - URL in opened
+2022-08-22 17:08:13,918 - cigna -INFO - URL in opened
+2022-08-22 17:08:56,514 - cigna -INFO - URL in opened
+2022-08-22 17:11:08,219 - cigna -INFO - URL in opened
+2022-08-22 17:13:17,182 - cigna -INFO - URL in opened
+2022-08-22 17:14:06,740 - cigna -INFO - URL in opened
+2022-08-22 17:23:02,353 - cigna -INFO - URL in opened
+2022-08-22 17:23:11,194 - cigna -INFO - country set
+2022-08-22 17:23:27,063 - cigna -INFO - given name set as Alex
+2022-08-22 17:23:27,531 - cigna -INFO - family name set as Perera
+2022-08-22 17:23:28,104 - cigna -INFO - local given name set as Alex
+2022-08-22 17:23:28,569 - cigna -INFO - local family name set as Perera
+2022-08-22 17:23:29,062 - cigna -INFO - local family name set as Perera
+2022-08-22 17:23:29,719 - cigna -INFO - address line1 set as Gampaha,Sri Lanka
+2022-08-22 17:23:30,659 - cigna -INFO - city set as Gampaha
+2022-08-22 17:23:31,125 - cigna -INFO - postalcode set as 11000
+2022-08-22 17:23:31,911 - cigna -INFO - email set as cigna@gmail.com
+2022-08-22 17:23:38,536 - cigna -INFO - error in country phone code
+2022-08-22 17:35:01,082 - cigna -INFO - URL in opened
+2022-08-22 17:35:05,667 - cigna -INFO - country set
+2022-08-22 17:39:06,935 - cigna -INFO - given name set as Alex
+2022-08-22 17:39:07,363 - cigna -INFO - family name set as Perera
+2022-08-22 17:39:07,845 - cigna -INFO - local given name set as Alex
+2022-08-22 17:39:08,251 - cigna -INFO - local family name set as Perera
+2022-08-22 17:39:08,984 - cigna -INFO - address line1 set as Gampaha,Sri Lanka
+2022-08-22 17:39:09,858 - cigna -INFO - city set as Gampaha
+2022-08-22 17:39:10,367 - cigna -INFO - postalcode set as 11000
+2022-08-22 17:39:10,883 - cigna -INFO - email set as cigna@gmail.com
+2022-08-22 22:43:01,635 - cigna -INFO - URL in opened
+2022-08-22 22:43:04,081 - cigna -INFO - country set
+2022-08-22 22:43:04,770 - cigna -INFO - given name set as Alex
+2022-08-22 22:43:05,334 - cigna -INFO - family name set as Perera
+2022-08-22 22:43:05,942 - cigna -INFO - local given name set as Alex
+2022-08-22 22:43:06,459 - cigna -INFO - local family name set as Perera
+2022-08-22 22:43:07,328 - cigna -INFO - address line1 set as Gampaha,Sri Lanka
+2022-08-22 22:43:08,074 - cigna -INFO - city set as Gampaha
+2022-08-22 22:43:08,548 - cigna -INFO - postalcode set as 11000
+2022-08-22 22:43:09,093 - cigna -INFO - email set as cigna@gmail.com
+2022-08-22 22:43:11,950 - cigna -INFO - error in country phone code
+2022-08-22 22:43:50,762 - cigna -INFO - URL in opened
+2022-08-22 22:44:33,346 - cigna -INFO - URL in opened
+2022-08-22 22:44:35,688 - cigna -INFO - country set
+2022-08-22 22:44:36,265 - cigna -INFO - given name set as Alex
+2022-08-22 22:44:36,941 - cigna -INFO - family name set as Perera
+2022-08-22 22:44:37,591 - cigna -INFO - local given name set as Alex
+2022-08-22 22:44:38,049 - cigna -INFO - local family name set as Perera
+2022-08-22 22:44:38,657 - cigna -INFO - address line1 set as Gampaha,Sri Lanka
+2022-08-22 22:44:39,402 - cigna -INFO - city set as Gampaha
+2022-08-22 22:44:39,893 - cigna -INFO - postalcode set as 11000
+2022-08-22 22:44:40,438 - cigna -INFO - email set as cigna@gmail.com
+2022-08-22 22:45:57,643 - cigna -INFO - URL in opened
+2022-08-22 22:46:00,751 - cigna -INFO - country set
+2022-08-22 22:46:01,691 - cigna -INFO - given name set as Alex
+2022-08-22 22:46:02,432 - cigna -INFO - family name set as Perera
+2022-08-22 22:46:03,117 - cigna -INFO - local given name set as Alex
+2022-08-22 22:46:03,691 - cigna -INFO - local family name set as Perera
+2022-08-22 22:46:04,591 - cigna -INFO - address line1 set as Gampaha,Sri Lanka
+2022-08-22 22:46:05,535 - cigna -INFO - city set as Gampaha
+2022-08-22 22:46:06,139 - cigna -INFO - postalcode set as 11000
+2022-08-22 22:46:06,712 - cigna -INFO - email set as cigna@gmail.com
+2022-08-22 22:47:29,055 - cigna -INFO - URL in opened
+2022-08-22 22:48:56,375 - cigna -INFO - URL in opened
+2022-08-22 22:49:15,581 - cigna -INFO - URL in opened
+2022-08-22 22:49:18,026 - cigna -INFO - country set
+2022-08-22 22:49:18,552 - cigna -INFO - given name set as Alex
+2022-08-22 22:49:19,260 - cigna -INFO - family name set as Perera
+2022-08-22 22:49:19,768 - cigna -INFO - local given name set as Alex
+2022-08-22 22:49:20,187 - cigna -INFO - local family name set as Perera
+2022-08-22 22:49:20,769 - cigna -INFO - address line1 set as Gampaha,Sri Lanka
+2022-08-22 22:49:21,541 - cigna -INFO - city set as Gampaha
+2022-08-22 22:49:22,016 - cigna -INFO - postalcode set as 11000
+2022-08-22 22:49:22,623 - cigna -INFO - email set as cigna@gmail.com
+2022-08-22 22:50:13,476 - cigna -INFO - country phone code is +94
+2022-08-22 22:52:45,434 - cigna -INFO - URL in opened
+2022-08-22 22:56:00,665 - cigna -INFO - URL in opened
+2022-08-22 22:56:02,918 - cigna -INFO - country set
+2022-08-22 22:56:03,399 - cigna -INFO - given name set as Alex
+2022-08-22 22:56:03,982 - cigna -INFO - family name set as Perera
+2022-08-22 22:56:04,640 - cigna -INFO - local given name set as Alex
+2022-08-22 22:56:05,049 - cigna -INFO - local family name set as Perera
+2022-08-22 22:56:05,636 - cigna -INFO - address line1 set as Gampaha,Sri Lanka
+2022-08-22 22:56:06,377 - cigna -INFO - city set as Gampaha
+2022-08-22 22:56:06,839 - cigna -INFO - postalcode set as 11000
+2022-08-22 22:56:07,423 - cigna -INFO - email set as cigna@gmail.com
+2022-08-22 22:58:41,539 - cigna -INFO - URL in opened
+2022-08-22 22:58:43,323 - cigna -INFO - country set
+2022-08-22 22:58:44,407 - cigna -INFO - given name set as Alex
+2022-08-22 22:58:45,041 - cigna -INFO - family name set as Perera
+2022-08-22 22:58:45,658 - cigna -INFO - local given name set as Alex
+2022-08-22 22:58:46,061 - cigna -INFO - local family name set as Perera
+2022-08-22 22:58:46,727 - cigna -INFO - address line1 set as Gampaha,Sri Lanka
+2022-08-22 22:58:47,405 - cigna -INFO - city set as Gampaha
+2022-08-22 22:58:47,926 - cigna -INFO - postalcode set as 11000
+2022-08-22 22:58:48,472 - cigna -INFO - email set as cigna@gmail.com
+2022-08-22 22:58:51,206 - cigna -INFO - country phone code is Sri Lanka +94
+2022-08-22 22:58:51,678 - cigna -INFO - phone number set as 773652548
+2022-08-22 22:58:52,151 - cigna -INFO - how did you here about set as Career Site
+2022-08-22 22:59:54,981 - cigna -INFO - URL in opened
+2022-08-22 23:01:19,138 - cigna -INFO - URL in opened
+2022-08-22 23:01:50,652 - cigna -INFO - URL in opened
+2022-08-22 23:01:52,807 - cigna -INFO - country set
+2022-08-22 23:01:53,487 - cigna -INFO - given name set as Alex
+2022-08-22 23:01:53,993 - cigna -INFO - family name set as Perera
+2022-08-22 23:01:54,534 - cigna -INFO - local given name set as Alex
+2022-08-22 23:01:54,984 - cigna -INFO - local family name set as Perera
+2022-08-22 23:01:55,648 - cigna -INFO - address line1 set as Gampaha,Sri Lanka
+2022-08-22 23:01:56,385 - cigna -INFO - city set as Gampaha
+2022-08-22 23:01:56,917 - cigna -INFO - postalcode set as 11000
+2022-08-22 23:01:57,505 - cigna -INFO - email set as cigna@gmail.com
+2022-08-22 23:02:00,305 - cigna -INFO - country phone code is Sri Lanka +94
+2022-08-22 23:02:00,691 - cigna -INFO - phone number set as 773652548
+2022-08-22 23:02:01,209 - cigna -INFO - how did you here about set as Career Site
+2022-08-22 23:03:31,391 - cigna -INFO - URL in opened
+2022-08-22 23:07:44,402 - cigna -INFO - URL in opened
+2022-08-22 23:12:28,638 - cigna -INFO - URL in opened
+2022-08-22 23:12:30,939 - cigna -INFO - country set
+2022-08-22 23:12:31,396 - cigna -INFO - given name set as Alex
+2022-08-22 23:12:32,072 - cigna -INFO - family name set as Perera
+2022-08-22 23:12:32,757 - cigna -INFO - local given name set as Alex
+2022-08-22 23:12:33,161 - cigna -INFO - local family name set as Perera
+2022-08-22 23:12:33,871 - cigna -INFO - address line1 set as Gampaha,Sri Lanka
+2022-08-22 23:12:34,574 - cigna -INFO - city set as Gampaha
+2022-08-22 23:12:35,156 - cigna -INFO - postalcode set as 11000
+2022-08-22 23:12:35,721 - cigna -INFO - email set as cigna@gmail.com
+2022-08-22 23:12:38,755 - cigna -INFO - country phone code is Sri Lanka +94
+2022-08-22 23:12:39,246 - cigna -INFO - phone number set as 773652548
+2022-08-22 23:12:39,714 - cigna -INFO - how did you here about set as Career Site
+2022-08-22 23:19:30,603 - cigna -INFO - URL in opened
+2022-08-24 00:56:36,963 - cigna -INFO - URL in opened
+2022-08-24 00:56:38,861 - cigna -INFO - country set
+2022-08-24 00:56:40,079 - cigna -INFO - given name set as Alex
+2022-08-24 00:56:40,801 - cigna -INFO - family name set as Perera
+2022-08-24 00:56:41,430 - cigna -INFO - local given name set as Alex
+2022-08-24 00:56:41,855 - cigna -INFO - local family name set as Perera
+2022-08-24 00:56:42,551 - cigna -INFO - address line1 set as Gampaha,Sri Lanka
+2022-08-24 00:56:43,279 - cigna -INFO - city set as Gampaha
+2022-08-24 00:56:43,833 - cigna -INFO - postalcode set as 11000
+2022-08-24 00:56:44,379 - cigna -INFO - email set as cigna@gmail.com
+2022-08-24 00:56:47,379 - cigna -INFO - country phone code is Sri Lanka +94
+2022-08-24 00:56:47,867 - cigna -INFO - phone number set as 773652548
+2022-08-24 00:56:48,309 - cigna -INFO - how did you here about set as Career Site
+2022-08-24 01:20:19,380 - cigna -INFO - URL in opened
+2022-08-24 01:20:20,901 - cigna -INFO - country set
+2022-08-24 01:20:22,164 - cigna -INFO - given name set as Alex
+2022-08-24 01:20:23,140 - cigna -INFO - family name set as Perera
+2022-08-24 01:20:23,621 - cigna -INFO - local given name set as Alex
+2022-08-24 01:20:24,153 - cigna -INFO - local family name set as Perera
+2022-08-24 01:20:24,758 - cigna -INFO - address line1 set as Gampaha,Sri Lanka
+2022-08-24 01:20:25,511 - cigna -INFO - city set as Gampaha
+2022-08-24 01:20:25,985 - cigna -INFO - postalcode set as 11000
+2022-08-24 01:20:26,536 - cigna -INFO - email set as cigna@gmail.com
+2022-08-24 01:20:29,509 - cigna -INFO - country phone code is Sri Lanka +94
+2022-08-24 01:20:29,999 - cigna -INFO - phone number set as 773652548
+2022-08-24 01:20:30,474 - cigna -INFO - how did you here about set as Career Site
+2022-08-24 01:23:09,982 - cigna -INFO - URL in opened
+2022-08-24 01:24:05,417 - cigna -INFO - URL in opened
+2022-08-24 01:24:31,119 - cigna -INFO - URL in opened
+2022-08-24 01:24:33,343 - cigna -INFO - country set
+2022-08-24 01:24:33,794 - cigna -INFO - given name set as Alex
+2022-08-24 01:24:34,479 - cigna -INFO - family name set as Perera
+2022-08-24 01:24:35,066 - cigna -INFO - local given name set as Alex
+2022-08-24 01:24:35,462 - cigna -INFO - local family name set as Perera
+2022-08-24 01:24:36,203 - cigna -INFO - address line1 set as Gampaha,Sri Lanka
+2022-08-24 01:24:36,957 - cigna -INFO - city set as Gampaha
+2022-08-24 01:24:37,513 - cigna -INFO - postalcode set as 11000
+2022-08-24 01:24:38,085 - cigna -INFO - email set as cigna@gmail.com
+2022-08-24 01:24:41,137 - cigna -INFO - country phone code is Sri Lanka +94
+2022-08-24 01:24:41,618 - cigna -INFO - phone number set as 773652548
+2022-08-24 01:24:42,094 - cigna -INFO - how did you here about set as Career Site
+2022-08-24 21:14:55,338 - cigna -INFO - URL in opened
+2022-08-24 21:15:51,560 - cigna -INFO - URL in opened
+2022-08-24 21:15:53,208 - cigna -INFO - country set
+2022-08-24 21:15:53,930 - cigna -INFO - given name set as Alex
+2022-08-24 21:15:54,348 - cigna -INFO - family name set as Perera
+2022-08-24 21:15:55,056 - cigna -INFO - local given name set as Alex
+2022-08-24 21:15:56,380 - cigna -INFO - local family name set as Perera
+2022-08-24 21:15:57,172 - cigna -INFO - address line1 set as Gampaha,Sri Lanka
+2022-08-24 21:15:58,204 - cigna -INFO - city set as Gampaha
+2022-08-24 21:15:58,812 - cigna -INFO - postalcode set as 11000
+2022-08-24 21:15:59,565 - cigna -INFO - email set as cigna@gmail.com
+2022-08-24 21:16:02,576 - cigna -INFO - country phone code is Sri Lanka +94
+2022-08-24 21:16:03,168 - cigna -INFO - phone number set as 773652548
+2022-08-24 21:16:03,685 - cigna -INFO - how did you here about set as Career Site
+2022-09-01 21:35:43,443 - cigna -INFO - URL in opened
+2022-09-01 21:35:45,249 - cigna -INFO - country set
+2022-09-01 21:35:47,066 - cigna -INFO - given name set as Alex
+2022-09-01 21:35:47,582 - cigna -INFO - family name set as Perera
+2022-09-01 21:35:48,128 - cigna -INFO - local given name set as Alex
+2022-09-01 21:35:48,649 - cigna -INFO - local family name set as Perera
+2022-09-01 21:35:49,316 - cigna -INFO - address line1 set as Gampaha,Sri Lanka
+2022-09-01 21:35:50,117 - cigna -INFO - city set as Gampaha
+2022-09-01 21:35:50,616 - cigna -INFO - postalcode set as 11000
+2022-09-01 21:35:51,310 - cigna -INFO - email set as cigna@gmail.com
+2022-09-01 21:35:54,240 - cigna -INFO - country phone code is Sri Lanka +94
+2022-09-01 21:35:54,744 - cigna -INFO - phone number set as 773652548
+2022-09-01 21:35:55,279 - cigna -INFO - how did you here about set as Career Site
+2022-09-02 21:34:34,588 - cigna -INFO - URL in opened
+2022-09-02 21:34:39,495 - cigna -INFO - country set
+2022-09-02 21:34:41,006 - cigna -INFO - given name set as Alex
+2022-09-02 21:34:41,498 - cigna -INFO - family name set as Perera
+2022-09-02 21:34:41,961 - cigna -INFO - local given name set as Alex
+2022-09-02 21:34:42,816 - cigna -INFO - local family name set as Perera
+2022-09-02 21:34:43,501 - cigna -INFO - address line1 set as Gampaha,Sri Lanka
+2022-09-02 21:34:44,355 - cigna -INFO - city set as Gampaha
+2022-09-02 21:34:44,841 - cigna -INFO - postalcode set as 11000
+2022-09-02 21:34:45,448 - cigna -INFO - email set as cigna@gmail.com
+2022-09-02 21:34:48,318 - cigna -INFO - country phone code is Sri Lanka +94
+2022-09-02 21:34:48,809 - cigna -INFO - phone number set as 773652548
+2022-09-02 21:34:49,262 - cigna -INFO - how did you here about set as Career Site
+2022-09-02 21:41:49,025 - cigna -INFO - URL in opened
+2022-09-02 21:41:52,396 - cigna -INFO - country set
+2022-09-02 21:41:53,474 - cigna -INFO - given name set as Alex
+2022-09-02 21:41:53,987 - cigna -INFO - family name set as Perera
+2022-09-02 21:41:54,542 - cigna -INFO - local given name set as Alex
+2022-09-02 21:41:55,236 - cigna -INFO - local family name set as Perera
+2022-09-02 21:41:56,431 - cigna -INFO - address line1 set as Gampaha,Sri Lanka
+2022-09-02 21:41:57,220 - cigna -INFO - city set as Gampaha
+2022-09-02 21:41:57,779 - cigna -INFO - postalcode set as 11000
+2022-09-02 21:41:58,374 - cigna -INFO - email set as cigna@gmail.com
+2022-09-02 21:42:01,444 - cigna -INFO - country phone code is Sri Lanka +94
+2022-09-02 21:42:01,950 - cigna -INFO - phone number set as 773652548
+2022-09-02 21:42:02,405 - cigna -INFO - how did you here about set as Career Site
+2022-09-02 21:45:25,128 - cigna -INFO - URL in opened
+2022-09-02 21:49:09,298 - cigna -INFO - URL in opened
